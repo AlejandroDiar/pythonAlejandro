@@ -1,0 +1,1 @@
+masa=float(input("Introduce el peso del usuario: "))
